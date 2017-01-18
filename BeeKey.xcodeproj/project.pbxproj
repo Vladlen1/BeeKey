@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E6AB1E31E300C0F0066349C /* soty-abstrakcii-med-fon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8E6AB1E21E300C0F0066349C /* soty-abstrakcii-med-fon.jpg */; };
 		8EAFBC2C1E2FE1B40016C380 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAFBC2B1E2FE1B40016C380 /* AppDelegate.swift */; };
 		8EAFBC2E1E2FE1B40016C380 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAFBC2D1E2FE1B40016C380 /* ViewController.swift */; };
 		8EAFBC311E2FE1B40016C380 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EAFBC2F1E2FE1B40016C380 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8E6AB1E21E300C0F0066349C /* soty-abstrakcii-med-fon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "soty-abstrakcii-med-fon.jpg"; sourceTree = "<group>"; };
 		8EAFBC281E2FE1B40016C380 /* BeeKey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BeeKey.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EAFBC2B1E2FE1B40016C380 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8EAFBC2D1E2FE1B40016C380 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				8EAFBC2D1E2FE1B40016C380 /* ViewController.swift */,
 				8EAFBC2F1E2FE1B40016C380 /* Main.storyboard */,
 				8EAFBC321E2FE1B40016C380 /* Assets.xcassets */,
+				8E6AB1E21E300C0F0066349C /* soty-abstrakcii-med-fon.jpg */,
 				8EAFBC341E2FE1B40016C380 /* LaunchScreen.storyboard */,
 				8EAFBC371E2FE1B40016C380 /* Info.plist */,
 			);
@@ -237,6 +240,7 @@
 			files = (
 				8EAFBC361E2FE1B40016C380 /* LaunchScreen.storyboard in Resources */,
 				8EAFBC331E2FE1B40016C380 /* Assets.xcassets in Resources */,
+				8E6AB1E31E300C0F0066349C /* soty-abstrakcii-med-fon.jpg in Resources */,
 				8EAFBC311E2FE1B40016C380 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -514,6 +518,7 @@
 				8EAFBC521E2FE1B40016C380 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8EAFBC531E2FE1B40016C380 /* Build configuration list for PBXNativeTarget "BeeKeyTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +527,7 @@
 				8EAFBC551E2FE1B40016C380 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8EAFBC561E2FE1B40016C380 /* Build configuration list for PBXNativeTarget "BeeKeyUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +536,7 @@
 				8EAFBC581E2FE1B40016C380 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
